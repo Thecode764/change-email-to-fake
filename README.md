@@ -7,7 +7,7 @@ pip install colorama
 ```
 ## Install From Git
 ```
-git clone https://github,com/Thecode764/change-email-to-fake
+git clone https://github.com/Thecode764/change-email-to-fake
 ```
 ## Go To App Directory
 ```
